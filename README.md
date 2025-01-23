@@ -6,11 +6,3 @@ bash <(curl -Ls --ipv4 https://github.com/arvinmoradi/haproxy/raw/main/haproxy.s
 ```
 # Menu
 ![Menu](https://github.com/Musixal/haproxy/blob/main/menu.png)
-
-# Donation Link
-
-Donate TRX (TRC-20) to support our project:
-``` wallet
-TMVBGzX4qpt12R1qWsJMpT1ttoKH1kus1H
-```
-Thanks for your support! 
